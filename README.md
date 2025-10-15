@@ -14,6 +14,8 @@ Main Theme repo can be found [here](https://github.com/eldritch-theme/eldritch)
 
 <img src="screenshot.png" alt="Screenshot"/><br/>
 
+(ignore HDR screenshot, wayland, hyprland things)
+
 ### Installation
 
 1. Eldritch theme is merged to main for [noctalia](https://docs.noctalia.dev/)
